@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js">
+    <Files>
+      <File FileName="Assets/Top-Down city/Standard Assets/Editor/Image Effects/TonemappingEditor.js" Line="1" Column="1" />
+      <File FileName="Assets/Top-Down city/Standard Assets/Image Effects (Pro Only)/BlurEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Top-Down city/Standard Assets/Image Effects (Pro Only)/ColorCorrectionEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Top-Down city/Standard Assets/Image Effects (Pro Only)/GrayscaleEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Top-Down city/Standard Assets/Image Effects (Pro Only)/ImageEffects.cs" Line="1" Column="1" />
+      <File FileName="Assets/Top-Down city/Standard Assets/Image Effects (Pro Only)/TwirlEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Top-Down city/Standard Assets/Image Effects (Pro Only)/SepiaToneEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/CharacterMotor.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js" Line="29" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

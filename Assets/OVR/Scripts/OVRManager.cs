@@ -19,6 +19,13 @@ limitations under the License.
 
 ************************************************************************************/
 
+// Edited by Sophia Liu and Yay Shin
+// 2014, Nov. 10 @ HackSC
+// github.com/lentebloem/DreamController
+// 
+// Some parts of the script was erased and modified to disable the default keyboard
+// Controls.
+
 using System;
 using System.Collections;
 using System.Runtime.InteropServices;

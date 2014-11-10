@@ -1,4 +1,10 @@
-﻿using UnityEngine;
+﻿// Developed by Sophia Liu and Yay Shin
+// 2014, Nov. 10 @ HackSC
+// github.com/lentebloem/DreamController
+// 
+// Under Progress: Implementing Apple's Dictation for Voice Control
+
+using UnityEngine;
 using System.Collections;
 
 public class SpeechToText : MonoBehaviour{
@@ -47,58 +53,3 @@ public class SpeechToText : MonoBehaviour{
 		}
 	}
 }
-
-
-
-
-//
-//using UnityEngine;
-//using System;
-//using System.Collections;
-//
-//public class SpeechToText : MonoBehaviour {
-//
-//	public string textInput;
-//
-//	void OnGUI(){
-//		if (textInput.Length < 7) {
-//			textInput += Input.GetKey;	
-//		} else {
-//			Debug.Log (textInput);
-//			textInput = "";
-//		}
-//	}
-//
-//	public void FuncForTimer()
-//	{
-//		System.Timers.Timer aTimer = new System.Timers.Timer();
-//		aTimer.Elapsed+=new ElapsedEventHandler(OnTimedEvent);
-//		aTimer.Interval=5000;
-//		aTimer.Enabled=true;
-//		
-//		Console.WriteLine("Press \'q\' to quit the sample.");
-//		while(Console.Read()!='q');
-//	}
-//	
-//	// Specify what you want to happen when the Elapsed event is raised.
-//	private static void OnTimedEvent(object source, ElapsedEventArgs e)
-//	{
-//		Console.WriteLine("Hello World!");
-//	
-//	 Use this for initialization
-//	void Start () {
-//		Console.WriteLine("Started");
-//		while (true) {
-//			if(Console.Read() ==null){
-//				;
-//			}else{
-//				Console.WriteLine(Console.ReadLine());
-//			}
-//		}
-//	}
-//	
-//	// Update is called once per frame
-//	void Update () {
-//
-//	}
-//}

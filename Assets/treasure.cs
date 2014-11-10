@@ -1,4 +1,10 @@
-﻿using UnityEngine;
+﻿// Developed by Sophia Liu and Yay Shin
+// 2014, Nov. 10 @ HackSC
+// github.com/lentebloem/DreamController
+// 
+// Keyboard control to make objects and erase them
+
+using UnityEngine;
 using System.Collections;
 using AOT;
 
